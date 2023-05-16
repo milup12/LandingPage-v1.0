@@ -8,4 +8,4 @@ function capturarDatos(){
   console.log('telefono',telefono);
 }
 
-capturarDatos()
+// capturarDatos()
